@@ -1,4 +1,3 @@
-
 # Greeting App
 
 Greeting App is a simple Ruby application that prompts the user for their name and then greets them. This project demonstrates basic Ruby concepts including classes, file structure, and testing.
